@@ -1,4 +1,4 @@
-package language.basics;
+package assignments;
 
 import java.time.LocalTime;
 

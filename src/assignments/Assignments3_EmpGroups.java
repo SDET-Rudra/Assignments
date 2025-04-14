@@ -1,4 +1,4 @@
-package language.basics;
+package assignments;
 
 public class Assignments3_EmpGroups extends Assignment3_Employees {
 

@@ -7,6 +7,24 @@ public class Demo1 {
 	Demo1(){
 		this.count++;
 	}
+	
+	 public static void printMessage(String message){
+		 
+		 System.out.println(message);
+		
+	}
+	 
+	public static void printHello(){
+			 
+			 System.out.println("Hello World");
+			
+		}
+	
+	public  void printName(){
+		 
+		 System.out.println("Hello my name is Rudra");
+		
+	}
 
 	public static void main(String[] args) {
 		
